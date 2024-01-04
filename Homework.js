@@ -1,4 +1,4 @@
-/ Scrivere un codice in Javascript che mistampi in console se, partendo dal giornodella settimana “Lunedì” che è il 1° delmese, devo mangiare una delle mie 5 mele.
+// Scrivere un codice in Javascript che mistampi in console se, partendo dal giornodella settimana “Lunedì” che è il 1° delmese, devo mangiare una delle mie 5 mele.
 // Le mele a disposizione sono 5, ne devomangiare 1 ogni giorno ma non vogliomangiarla se è Mercoledì e devo smetteredi mangiarle quando me ne rimangono 2.
 
 const giorniSettimana = ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica"];
@@ -23,3 +23,7 @@ for (i = 0; i < giorniSettimana.length-1; i++) {
 console.log("Mi rimangono " + meleRimanenti + " mele");
 console.log ("----------"); 
 }
+// fine del file
+
+// proviamo a vedere se li salva
+
