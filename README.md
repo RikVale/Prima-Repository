@@ -1,3 +1,1 @@
 # Repository Centrale
-
-Bella lì!
